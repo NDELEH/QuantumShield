@@ -122,7 +122,6 @@ To address this problem, this lesson uses a practical project:
 
 This project is both:
 - A **learning tool** for quantum-related security concepts.
-- A **portfolio project** suitable for GitHub.
 
 ---
 
